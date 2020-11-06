@@ -1,22 +1,16 @@
 <template>
-  <h2>应用</h2>
+  <h2>详情</h2>
 </template>
 
 <script>
-
 export default {
-  name: "Category",
+  name: 'Detail',
   data () {
     return {
-      
     };
-  },
-  components: {
-  
-  },
+  }
 }
 
 </script>
 <style scoped>
-
 </style>
